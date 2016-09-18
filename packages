@@ -1,0 +1,55 @@
+## CLI
+apt-file
+build-essential
+cloc
+cups
+curl
+elinks
+fish
+flac
+git
+httpie
+lame
+octave
+parallel
+pmount
+python-dev
+ruby-dev
+software-properties-common
+sox libsox-fmt-all
+tree
+vim-gnome
+
+## GUI
+audacity
+banshee
+gnome
+hplip-gui
+klavaro
+meld
+nautilus-dropbox
+network-manager-openvpn-gnome
+picard
+sound-juicer
+soundconverter
+vlc
+
+# Firmware
+firmware-iwlwifi
+
+# Fixes
+libcanberra-gtk-module
+
+## Manual installation
+# flux - https://justgetflux.com/linux.html
+# git fame - https://github.com/oleander/git-fame-rb
+# git standup - https://github.com/kamranahmedse/git-standup
+# gitsh - https://github.com/thoughtbot/gitsh
+# gnome-terminal-colors-solarized - https://github.com/Anthony25/gnome-terminal-colors-solarized
+# intellij-colors-solarized - https://github.com/jkaving/intellij-colors-solarized
+# Janus - https://github.com/carlhuda/janus
+# keybase - https://keybase.io/download
+# Pixel Saver - https://github.com/deadalnix/pixel-saver
+# sponge - apt-get download moreutils
+# Spotify - https://www.spotify.com/pl/download/
+# Variety - https://launchpad.net/~variety/+archive/ubuntu/next
