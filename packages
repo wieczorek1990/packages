@@ -18,7 +18,7 @@ ruby-dev
 software-properties-common
 sox libsox-fmt-all
 tree
-vim-gnome
+vim
 
 ## GUI
 audacity
